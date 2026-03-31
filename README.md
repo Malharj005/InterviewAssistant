@@ -1,4 +1,4 @@
-# 🚀 AI Interview Assistant Pro
+# 🚀 AI Interview Assistant 
 
 AI-powered mock interview platform with real-time voice conversation, dynamic question generation, and intelligent evaluation.
 
