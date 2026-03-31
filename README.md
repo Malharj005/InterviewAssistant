@@ -15,7 +15,7 @@ AI-powered mock interview platform with real-time voice conversation, dynamic qu
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | React + Vite + TailwindCSS v4 + Zustand |
+| Frontend | React + Vite + TailwindCSS v4  |
 | Backend | Node.js + Express + WebSocket |
 | AI | OpenAI GPT-4o-mini |
 | Voice | ElevenLabs TTS + Whisper STT |
