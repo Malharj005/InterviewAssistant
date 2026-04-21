@@ -5,7 +5,7 @@ AI-powered mock interview platform with real-time voice conversation, dynamic qu
 ## Features
 
 - 🎤 **Voice Mode** - Full hands-free interview with TTS/STT
-- 🤖 **AI-Driven Questions** - Dynamic, adaptive questioning powered by GPT-4o-mini
+- 🤖 **AI-Driven Questions** - Dynamic, adaptive questioning powered by llama-3.3-70b-versatile
 - 📊 **Smart Evaluation** - Scored across Technical, Problem Solving, Communication, Confidence
 - 📄 **Resume Parsing** - Upload your resume for personalized questions
 - 🌙 **Dark Mode** - Beautiful dark/light theme toggle
