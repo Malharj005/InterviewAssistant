@@ -17,7 +17,7 @@ AI-powered mock interview platform with real-time voice conversation, dynamic qu
 |-------|-----------|
 | Frontend | React + Vite + TailwindCSS v4  |
 | Backend | Node.js + Express + WebSocket |
-| AI | OpenAI GPT-4o-mini |
+| AI | Groq llama-3.3-70b-versatile |
 | Voice | ElevenLabs TTS + Whisper STT |
 | Database | Supabase (PostgreSQL) |
 
